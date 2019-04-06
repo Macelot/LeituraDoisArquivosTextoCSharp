@@ -1,0 +1,16 @@
+C:\Users\William\Documents\Visual Studio 2008\Projects\ManipulandoArquivosTexto\ManipulandoArquivosTexto\bin\Debug\ManipulandoArquivosTexto.exe
+C:\Users\William\Documents\Visual Studio 2008\Projects\ManipulandoArquivosTexto\ManipulandoArquivosTexto\bin\Debug\ManipulandoArquivosTexto.pdb
+C:\Users\William\Documents\Visual Studio 2008\Projects\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\William\Documents\Visual Studio 2008\Projects\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\William\Documents\Visual Studio 2008\Projects\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\William\Documents\Visual Studio 2008\Projects\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.csproj.GenerateResource.Cache
+C:\Users\William\Documents\Visual Studio 2008\Projects\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.exe
+C:\Users\William\Documents\Visual Studio 2008\Projects\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.pdb
+C:\Documents and Settings\Aluno2\Desktop\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.exe
+C:\Documents and Settings\Aluno2\Desktop\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.pdb
+C:\Documents and Settings\Aluno2\Desktop\ManipulandoArquivosTexto\ManipulandoArquivosTexto\bin\Debug\ManipulandoArquivosTexto.exe
+C:\Documents and Settings\Aluno2\Desktop\ManipulandoArquivosTexto\ManipulandoArquivosTexto\bin\Debug\ManipulandoArquivosTexto.pdb
+C:\Documents and Settings\Aluno2\Desktop\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno2\Desktop\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Aluno2\Desktop\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Aluno2\Desktop\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.csproj.GenerateResource.Cache
